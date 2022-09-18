@@ -7,5 +7,5 @@
 
 ## Frontend
 ### hackday2022-map
-[GitHub](https://github.com/UshinohiProject/hackday2022-map)  
+[デモサイト](https://toreru.netlify.app/)  
 使用技術: [Google Maps API](https://developers.google.com/maps?hl=ja)
